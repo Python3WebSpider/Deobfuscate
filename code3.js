@@ -1,16 +1,23 @@
-var _0xa34ad4 = {
-  foo: function (_0x0932bb, _0x5a165e) {
-    return _0x0932bb == _0x5a165e;
-  },
-  bar: function (_0x82692c, _0xcd5204, _0xa27c91) {
-    return _0x82692c(_0xcd5204, _0xa27c91);
-  },
-  baz: function (_0x427592) {
-    return _0x427592();
-  },
-  qux: "hello world",
+const _0x16c18d = function () {
+  if (!![[]]) {
+    console.log("hello world");
+  } else {
+    console.log("this");
+    console.log("is");
+    console.log("dead");
+    console.log("code");
+  }
 };
-const result1 = _0xa34ad4("foo")(1, 2);
-const result2 = _0xa34ad4("bar")("hello", "world", "great");
-const result3 = _0xa34ad4("baz")(count);
-const result4 = _0xa34ad4("qux");
+const _0x1f7292 = function () {
+  if ("xmv2nOdfy2N".charAt(4) !== String.fromCharCode(110)) {
+    console.log("this");
+    console.log("is");
+    console.log("dead");
+    console.log("code");
+  } else {
+    console.log("nice to meet you");
+  }
+};
+
+_0x16c18d();
+_0x1f7292();
